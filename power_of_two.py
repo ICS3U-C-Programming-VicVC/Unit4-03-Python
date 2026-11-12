@@ -14,7 +14,7 @@ def main():
 
     # the try statement will make sure the code safely with invalid user inputs
     try:
-        # Converting both inputs
+        # Converting both inputs to integers
         base = int(base_str)
         expo = int(expo_str)
 
