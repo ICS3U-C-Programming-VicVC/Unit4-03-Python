@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Created By: Victor Victor-Calixte
-# Date: 09/16/26
+# Date: 11/13/26
 # This program calculates the power of the given numbers from the user
 
 import constants

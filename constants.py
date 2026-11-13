@@ -7,6 +7,8 @@
 BASE_MSG = "Enter the base number: "
 EXPO_MSG = "Enter the Exponent number: "
 
+ANSWER_MSG = "{0} to the power of {1} = {2}"
+
 ERR_MSG = (
-    "Base: {0}, or exponent: {1}, are invalid Inputs!\n (MUST BE POSITIVE INPUTS!)"
+    "Base: {0}, or exponent: {1}, are invalid Inputs!\n (MUST BE POSITIVE INTEGER!)"
 )
