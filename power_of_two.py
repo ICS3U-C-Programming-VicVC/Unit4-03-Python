@@ -27,8 +27,8 @@ def main():
 
             # Calculating the sum starting the counter at 0
             for counter in range(0, expo):
-
                 sum_num *= base
+                print(constants.TRACKING_MSG.format(base,counter,sum_num))
 
             # Displaying the sum to the user
             print(constants.ANSWER_MSG.format(base, expo, sum_num))
